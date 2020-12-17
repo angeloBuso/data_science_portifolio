@@ -24,6 +24,6 @@ Sendo assim **quero fazer parte da mudança**, ao invés de ser impactado por el
 ## Projetos:
 Projetos desenvolvidos no processo da construção do conhecimento em Ciências de Dados (Bitly):
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Como usar o Histograma para Data Science:** https://**bit.ly/2L2cMwy
 
 ---
