@@ -11,6 +11,9 @@ Projetos desenvolvidos no processo da construção do conhecimento em Ciências 
 
 
 ---
-
-
+<!--
 * **Dashboard Interativo com ocorrências aéras:** http://bit.ly/3qVZ40Y [![biblioteca](https://img.shields.io/badge/biblioteca-Streamlit-blue.svg)](https://docs.streamlit.io/en/stable/index.html)
+
+
+
+-->
