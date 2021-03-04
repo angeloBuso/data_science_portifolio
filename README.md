@@ -7,7 +7,10 @@
 Projetos desenvolvidos no processo da construção do conhecimento em Ciências de Dados, cada repositório contém contextualização do problema analisado
 
 * **Análise dados do Airbnb para Rio de Janeiro:** http://bit.ly/385sRNi
-* **Dashboard Interativo com ocorrências aéras:** http://bit.ly/3qVZ40Y [![biblioteca](https://img.shields.io/badge/biblioteca-Streamlit-blue.svg)](https://docs.streamlit.io/en/stable/index.html)
+
 
 
 ---
+
+
+* **Dashboard Interativo com ocorrências aéras:** http://bit.ly/3qVZ40Y [![biblioteca](https://img.shields.io/badge/biblioteca-Streamlit-blue.svg)](https://docs.streamlit.io/en/stable/index.html)
