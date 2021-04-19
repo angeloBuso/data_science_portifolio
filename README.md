@@ -15,7 +15,7 @@ Projetos desenvolvidos no processo da construção do conhecimento em Ciências 
 ---
 ![](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
-
+* **Usando *Deep Learning* detectando objeto - carros autônomos**
 
 
 
