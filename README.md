@@ -11,6 +11,7 @@ Projetos desenvolvidos no processo da construção do conhecimento em Ciências 
 * **E o Rio de Janeiro continua lindo?** Análise sobre a violência no estado do Rio de Janeiro https://bit.ly/3cDL6w2
 * **Manipulando Imagens com Python** https://bit.ly/3drcqN6
 * **Panorama da Covid-19 no Brasil e no Mundo** https://bit.ly/3gdPNi2
+* **Scrape perfis profissionais** https://bit.ly/3uePuHX
 
 ---
 ![](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
