@@ -12,6 +12,7 @@ Projetos desenvolvidos no processo da construção do conhecimento em Ciências 
 * **Manipulando Imagens com Python** https://bit.ly/3drcqN6
 * **Panorama da Covid-19 no Brasil e no Mundo** https://bit.ly/3gdPNi2
 * **Scrape perfis profissionais** https://bit.ly/3uePuHX
+* **Construçao Manual Algoritmo ML - SVM** http://bit.ly/ml_SVM
 
 ---
 ![](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
