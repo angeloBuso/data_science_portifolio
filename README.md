@@ -13,6 +13,7 @@ Projetos desenvolvidos no processo da construção do conhecimento em Ciências 
 * **Panorama da Covid-19 no Brasil e no Mundo** https://bit.ly/3gdPNi2
 * **Scrape perfis profissionais** https://bit.ly/3uePuHX
 * **Construçao Manual Algoritmo ML - SVM** http://bit.ly/ml_SVM
+* **Construção Regressor usando multiplicação matricial** http://bit.ly/ml_regressor
 
 ---
 ![](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
