@@ -14,6 +14,7 @@ Projetos desenvolvidos no processo da construção do conhecimento em Ciências 
 * **Scrape perfis profissionais** https://bit.ly/3uePuHX
 * **Construçao Manual Algoritmo ML - SVM** http://bit.ly/ml_SVM
 * **Construção Regressor usando multiplicação matricial** http://bit.ly/ml_regressor
+* **Reconhecimento Facial com PCA e ML** https://bit.ly/3Bj0NSX
 
 ---
 ![](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
