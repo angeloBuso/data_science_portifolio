@@ -16,6 +16,7 @@ Projetos desenvolvidos no processo da construção do conhecimento em Ciências 
 * **Construção Regressor usando multiplicação matricial** http://bit.ly/ml_regressor
 * **Reconhecimento Facial com PCA e ML** https://bit.ly/3Bj0NSX
 * **Wordcloud com técnicas de PLN** https://bit.ly/3ADZ89K
+* **Aplicativo que gera uma nuvem de palavras** https://bit.ly/buso-gera-nuvem
 
 ---
 ![](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
