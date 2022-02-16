@@ -18,6 +18,7 @@ Projetos desenvolvidos no processo da construção do conhecimento em Ciências 
 * **Wordcloud com técnicas de PLN** https://bit.ly/3ADZ89K
 * **Aplicativo que gera uma nuvem de palavras** https://bit.ly/buso-gera-nuvem
 * **Classificador Bin de Fraudes transações cartão** https://bit.ly/3f84qBZ
+* **Algorimos de ML em problemas do cotidianos** https://bit.ly/ml_buso 
 
 ---
 ![](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
